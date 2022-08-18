@@ -1,0 +1,27 @@
+{
+  "name": "crash-courses",
+  "version": "1.0.0",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigracksvee/node-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigracksvee/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/Bigracksvee/node-crash-course#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
+}
